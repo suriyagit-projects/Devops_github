@@ -10,5 +10,5 @@ echo"Adding these to a nw repo"
 #adding functionality in main branch
 y=a+b
 
-
+#multiply function from branch multiply
 
